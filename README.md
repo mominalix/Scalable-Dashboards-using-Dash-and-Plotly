@@ -25,7 +25,7 @@ This repository provides a structured approach for building scalable Plotly Dash
 2. Navigate to the project directory:
 
    ```bash
-   cd dynamic-dashboards
+   cd Scalable-Dashboards-using-Dash-and-Plotly
    ```
 
 3. Create and activate a virtual environment (optional but recommended):

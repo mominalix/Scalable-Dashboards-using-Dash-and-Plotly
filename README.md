@@ -1,4 +1,4 @@
-```markdown
+
 # Dynamic Dashboards with Plotly Dash
 
 This repository provides a structured approach for building scalable Plotly Dashboards using Dash. It includes multiple dashboards with Plotly graphs and a structured way of adding algorithms.
